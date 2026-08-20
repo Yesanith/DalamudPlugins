@@ -3,10 +3,10 @@
     "Author": "Yesanith",
     "Name": "Regions of XIV",
     "InternalName": "RegionsOfXIV",
-    "AssemblyVersion": "0.2.3.0",
-    "TestingAssemblyVersion": "0.2.3.0",
+    "AssemblyVersion": "0.3.0.0",
+    "TestingAssemblyVersion": "0.3.0.0",
     "Punchline": "A beautiful area notification as you walk in and out of zones.",
-    "Description": "Announces the region, zone, area and sub-area you walk into with a styled, animated on-screen notification. It can announce weather changes too.\n\nInspired by Nekres' \"Regions of Tyria\" for Guild Wars 2.\n\nOpen settings with /regions.",
+    "Description": "Announces the region, zone, area and sub-area you walk into with a styled, animated on-screen notification. It can announce weather changes too, and redraw the game's own banners — Quest Accepted, Duty Commenced, Level Up! — in the same style.\n\nInspired by Nekres' \"Regions of Tyria\" for Guild Wars 2.\n\nOpen settings with /regions.",
     "RepoUrl": "https://github.com/Yesanith/RegionsOfXIV",
     "ApplicableVersion": "any",
     "Tags": [
@@ -14,6 +14,8 @@
       "area",
       "notification",
       "weather",
+      "banner",
+      "quest",
       "immersion",
       "ui"
     ],
